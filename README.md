@@ -42,7 +42,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimenehassene&layout=compact&theme=" alt=slimenehassene />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=slimenehassene&theme=" alt="slimenehassene" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=slimenehassene&theme=" alt="slimenehassene" /></p>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
