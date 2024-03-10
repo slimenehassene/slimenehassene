@@ -40,7 +40,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimenehassene&layout=compact&theme=" alt=slimenehassene />
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimenehassene&layout=compact&theme=" alt=slimenehassene />
 
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=slimenehassene&theme=" alt="slimenehassene" /></p>
 
